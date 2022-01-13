@@ -4,6 +4,8 @@
 
 This repository includes source code and firmware releases for the Original Prusa 3D printers based on the 32-bit ARM microcontrollers.
 
+To generate the firmare use the following command: python3 utils/build.py --generate-bbf
+
 The currently supported model is:
 - Original Prusa MINI
 
